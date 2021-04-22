@@ -1,9 +1,9 @@
 # cleveland-tech-slack-no-code-resources
 You don't always need code!
 
-Cleveland Tech Slack No Code Resources
+*Cleveland Tech Slack No Code Resources*
 
-Tools
+**Tools**
 
 No Code MBA - Premium step by step courses to get you building real world apps and websites using no code tools. Good for: Mobile and Web Apps
 
@@ -23,7 +23,7 @@ Fulcrum - no-code SaaS platform streamlines mobile data collection, automates wo
 
 
 
-Communities
+**Communities**
 
 No Code Subreddit
 
